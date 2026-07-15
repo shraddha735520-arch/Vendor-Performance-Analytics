@@ -5,6 +5,12 @@ Built an end-to-end Vendor Performance Analytics solution using SQL and Python t
 
 The project combines SQL-based data aggregation with Python-based exploratory data analysis (EDA) to generate actionable business insights for procurement and inventory optimization.
 
+**Dataset**
+
+The original dataset used in this project is approximately **2 GB** and exceeds GitHub's file size limits. Therefore, the raw data has not been included in this repository.
+
+The repository contains all analysis scripts, notebooks, and documentation required to understand the workflow.
+
 **Tech Stack**
 - Python
 - SQL (SQLite)
