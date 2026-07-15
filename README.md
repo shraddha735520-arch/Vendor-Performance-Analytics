@@ -13,6 +13,7 @@ The project combines SQL-based data aggregation with Python-based exploratory da
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+  
 **Business Problems Solved**
 - Identify top-performing vendors
 - Analyze purchase contribution
@@ -23,6 +24,7 @@ The project combines SQL-based data aggregation with Python-based exploratory da
 - Compare top vs low-performing vendors
 - Perform hypothesis testing
 - Confidence interval analysis
+  
 **Key Insights**
 - Top vendors contribute the majority of purchases.
 - Bulk purchasing significantly reduces unit cost.
@@ -30,6 +32,7 @@ The project combines SQL-based data aggregation with Python-based exploratory da
 - Gross Profit strongly depends on Sales Dollars.
 - Low-performing vendors maintain higher margins but lower sales.
 - Procurement opportunities exist by consolidating vendor purchases.
+  
 **Visualizations**
 - Correlation Heatmap
 - Pareto Chart
@@ -39,6 +42,7 @@ The project combines SQL-based data aggregation with Python-based exploratory da
 - Bulk Purchase Analysis
 - Confidence Interval Analysis
 - Hypothesis Testing
+  
 **Skills Demonstrated**
 - SQL
 - Data Cleaning
